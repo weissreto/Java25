@@ -1,0 +1,10 @@
+#!/usr/bin/java --source 25
+
+///
+/// Execute this example using the command `.\HelloWorld` in the terminal.
+/// 
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }    
+}
